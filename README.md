@@ -1,4 +1,4 @@
-# Hotel Booking Cancellation Analysis Using Python
+# Hotel Booking Analysis Using Python
 
 ## Overview
 The primary goal of this project is to analyze hotel booking cancellations and other factors influencing revenue generation for City Hotel and Resort Hotel. High cancellation rates have led to decreased revenue and suboptimal room utilization for both hotels. Therefore, the project aims to provide comprehensive business advice to address this issue and improve revenue generation efficiency.
